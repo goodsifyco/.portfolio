@@ -1,0 +1,6 @@
+{
+  "name": "GoodsifyCo — Business & Digital Portfolio",
+  "description": "The main brand connecting business projects, digital services, ideas, and collaborations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
